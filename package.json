@@ -1,0 +1,23 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "first express project (todolist)",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-sharma7m/Project_to_do_list_fs.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-sharma7m/Project_to_do_list_fs/issues"
+  },
+  "homepage": "https://github.com/aman-sharma7m/Project_to_do_list_fs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
